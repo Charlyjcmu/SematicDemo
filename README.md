@@ -1,9 +1,8 @@
 # SematicDemo
 
-This is an example Sematic project, which was generated using `Sematic 0.27.0`.
+This is an example Sematic project, which was generated using `Sematic 0.27.0` for [this article](https://medium.com/@hqcharlyjin/sematic-an-open-source-development-platform-for-mlops-c71a5182b551)
 
-Take a look at the [Sematic documentation][https://docs.sematic.dev/onboarding/readme] to get started.
-
+Take a look at the [Sematic documentation](https://docs.sematic.dev/onboarding/readme) to get started.
 
 ## How to install
 You need to install libmagic on your computer:
